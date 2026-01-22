@@ -1,0 +1,47 @@
+.family {
+    height: 50px;
+    width: 60%;
+    background-color: blue;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+.prayer {
+    height: 400px;
+    width: 60%;
+    background-color: blueviolet;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+.respect{
+    height: 300px;
+    width: 60%;
+    background-color: chartreuse;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+.love{
+    height: 300px;
+    width: 60%;
+    background-color: chocolate;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+.working{
+    height: 60px;
+   width: 61%;
+    background-color: yellow;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+.fasting{
+    height: 400px;
+    width: 60%;
+    background-color: hotpink;
+    float: right;
+
+} 

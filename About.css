@@ -1,0 +1,83 @@
+.queen {
+    height: 21px;
+    width: 61%;
+    background-color: purple;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+
+
+.king {
+    height: 900px;
+    width: 60%;
+    background-color: yellow;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 10px;
+
+}
+
+.princess {
+    height: 300px;
+    width: 60%;
+    background-color: brown;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.prince {
+    height: 40px;
+    width: 61%;
+    background-color: skyblue;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.tracy {
+
+    background-color: blue;
+
+}
+
+.kemmy {
+
+    background-color: greenyellow;
+
+}
+
+.emmy {
+
+    background-color: blueviolet;
+
+}
+
+.elisha {
+    background-color: blue;
+    height: 900px;
+    width: 50%;
+    float: left;
+}
+
+.switifa {
+    background-color: crimson;
+    height: 900px;
+    width: 50%;
+    float: right;
+}
+
+.lion {
+    background-color: lime;
+    height: 450px;
+    width: 99%;
+    padding-left: 10px;
+}
+
+.zebra {
+    background-color: hotpink;
+    height: 450px;
+    width: 99%;
+    padding-right: 10px;
+}

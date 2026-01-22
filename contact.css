@@ -1,0 +1,21 @@
+.fruits{
+    background-color: blue;
+    height: 21px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+.eats{
+    background-color: grey;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.drinks{
+    background-color: yellow;
+    height: 330px;
+    width: 330px;
+    margin: auto;
+}
